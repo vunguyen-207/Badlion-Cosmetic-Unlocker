@@ -4,7 +4,7 @@
 I’ve had enough of all those **clickbait** YouTube videos promising to “Unlock all Badlion cosmetics” but ending up doing nothing or requiring tons of unnecessary steps.  
 So I decided to create my own **Badlion Client cosmetic unlocker** – with **just one click**.
 
-I’ve designed it so now you don’t need to do anything manually.  
+I’ve designed it so now you don’t need to do anything manually. Also made it open source just for the live-for-sure people.
 Just open the tool and **enjoy**.
 
 ---
