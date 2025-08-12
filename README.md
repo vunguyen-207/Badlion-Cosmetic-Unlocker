@@ -18,7 +18,7 @@ Just open the tool and **enjoy**.
 ## 🚀 How to Use
 1. Download the tool from the **Release** section of this repo.
 2. Launch Badlion Client and log into your account.
-3. Run the tool and click **Unlock**.
+3. Run the tool, no need to do anything, just make sure Badlion was fully installed.
 4. Done, all cosmetics unlocked.
 
 ---
