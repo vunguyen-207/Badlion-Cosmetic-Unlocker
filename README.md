@@ -24,7 +24,7 @@ Just open the tool and **enjoy**.
 ---
 
 ## ⚠️ Disclaimer
-- This tool is made **for educational and research purposes only**.  
+- This tool is made **for educational and research purposes only**. I won't graduatee that your PC will be safe after running it since the requirements weren't made by me.
 - I **do not encourage** using it in competitive environments or for monetary gain.
 - Using this tool **may violate Badlion’s Terms of Service**, so proceed at your own risk.
 
